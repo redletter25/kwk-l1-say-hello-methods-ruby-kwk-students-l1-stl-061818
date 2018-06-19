@@ -1,9 +1,9 @@
 # Build your say_hello method here
-def hello (my_name = "Gabriela")
-  puts "hello #{my_name}!"
+def hello (name)
+  puts "hello #{name}!"
   
 
-hello
+hello("Gabriela")
 
 
 
