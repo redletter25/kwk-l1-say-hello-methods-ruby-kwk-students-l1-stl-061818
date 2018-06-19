@@ -1,12 +1,12 @@
 # Build your say_hello method here
 
 
-def hello (name)
+def say_hello (name)
   puts "hello #{name}!"
 end
   
 
-hello("Gabriela")
+say_hello("Gabriela")
 
 
 
